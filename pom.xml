@@ -4,7 +4,7 @@
   <groupId>com.maaven.practice</groupId>
   <artifactId>alfa-app</artifactId>
   <packaging>jar</packaging>
-  <version>3.0-snapshot</version>
+  <version>1.0.0</version>
   
   <dependencies>
     <dependency>
@@ -18,12 +18,12 @@
 
 		<repository>
 			<id>deployment</id>
-			<name>maven-releases</name>
+			<name>releases</name>
 			<url>http://13.231.34.45:8081/repository/anil-releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>deployment</id>
-			<name>maven-snapshots</name>
+			<name>snapshots</name>
 			<url>http://13.231.34.45:8081/repository/anil-snapshots/</url>
 		</snapshotRepository>		
   </distributionManagement>
