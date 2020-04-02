@@ -19,7 +19,7 @@
 		<repository>
 			<id>deployment</id>
 			<name>maven-releases</name>
-			<url>http://http://13.231.34.45:8081/repository/anil-releases/</url>
+			<url>http://13.231.34.45:8081/repository/anil-releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>deployment</id>
