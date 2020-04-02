@@ -4,7 +4,7 @@
   <groupId>com.maaven.practice</groupId>
   <artifactId>alfa-app</artifactId>
   <packaging>jar</packaging>
-  <version>3.0-snap</version>
+  <version>3.0-snapshot</version>
   
   <dependencies>
     <dependency>
